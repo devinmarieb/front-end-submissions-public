@@ -1,13 +1,17 @@
 ## Project Name & Pitch
 
-#### Example:
+#### NTY Bookshelf
 
-TweetWorld
+An app that lets a user enter a NYT best seller list (hardcover-fiction, ebook-nonfiction, etc) and see information about each book. A user will be able to favorite books.
 
-An application used to filter data form Twitter based on user preference, built with React, Redux, JavaScript, and CSS.
+Phase two will be to allow a user to get notified if a book drops in price on iTunes.
 
 ## Project Status
-(only necessary if incomplete)
+
+I have set up a boilerplate with React, Redux and Router. I have hit an API that gives me an array with 15 books on the best seller list. I am currently console logging the array.
+
+Issues1: It doesn't seem like there is a photo of the book cover in the data.
+Issue2: I can't seem to set up sass.
 
 #### Example:
 
