@@ -17,6 +17,7 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 ### Dan Grund
 
 ### Devin Marie Beliveau
+* Intermission Homework - [Node/Express Tutorial](https://github.com/devinmarieb/Node-Express-Tutorial)
 
 ### Dylan Avery
 
