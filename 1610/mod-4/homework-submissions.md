@@ -44,6 +44,7 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 **Week 2**
 * [Web Scraping](https://github.com/devinmarieb/webscraping-workshop)
 * [JWT Tutorial](https://github.com/devinmarieb/jwt-mini-project)
+* [CodePen Card Challenge](https://codepen.io/devinmarieb/pen/PpevwK?editors=0110)
 
 ### Dylan Avery
 
